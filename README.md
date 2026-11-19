@@ -12,15 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# About Me:
+#                              Chase Kluth | chasekluth7@gmail.com
 I am an aspiring Computer Science & Cybersecurity Student with 4 years of experience with programming, in that time I have built automation scripts, discord bots, Minecraft scripts/mods, and professionally developed software for LIX CO and Holding. I am a nut for efficiency: I enjoy programming things to make repetitive tasks much easier or other QOL Projects to aid in everyday responsibilities or life. 
 
 # Education
- - Currently Enrolled in Computer Science and Cybersecurity class at Warren Tech / RRCC
- - SoloLearn JavaScript Certification
- - PCEP Python Certification
+ - Currently Enrolled in *Computer Science and Cybersecurity class at Warren Tech / RRCC*
+ - *SoloLearn* JavaScript Certification
+ - *PCEP Python* Certification
  - **In Progress**: Linux+ Certification, expected by December 2026.
-## Misc. Skills
+### Misc. Skills
   - Expert at Excel/Google Sheets
 # Projects
 
@@ -29,6 +29,6 @@ I am an aspiring Computer Science & Cybersecurity Student with 4 years of experi
   -  Cake Order Tracking for use at LIX CO and Holding ( Dairy Queen ) 
   -  Reminder Bot for use at LIX CO and Holding ( Dairy Queen )
 ## In Progress:
-  - "Project Freeze": Nasa HUNCH Project, Software for a Raspberry PI Space Freezer temperature control module.
-  - Cyber-Defense: Tower Defense Game where you can use Python to program tower functionality.
-  - Collaborative Cleaning List App for use in Fast Food Establishments.
+  - **Project Freeze**: Nasa HUNCH Project, Software for a Raspberry PI Space Freezer temperature control module.
+  - **Cyber-Defense**: Tower Defense Game where you can use Python to program tower functionality.
+  - **Collaborative Cleaning List App**: Use in Fast Food Establishments to track deep cleaning tasks and list by priority.

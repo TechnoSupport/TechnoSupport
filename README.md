@@ -25,9 +25,9 @@ I am an aspiring Computer Science & Cybersecurity Student with 4 years of experi
 # Projects
 
 ## Completed:
-  - "Nifty" Multipurpose Discord Bot deployed in a server with > 15,000 members (Deprecated)
-  -  Cake Order Tracking for use at LIX CO and Holding ( Dairy Queen ) 
-  -  Reminder Bot for use at LIX CO and Holding ( Dairy Queen )
+  - **"Nifty"** Multipurpose Discord Bot deployed in a server with > 15,000 members (Deprecated)
+  -  **Cake Order Tracking** for use at LIX CO and Holding ( Dairy Queen ) 
+  -  **Reminder Bot** for use at LIX CO and Holding ( Dairy Queen )
 ## In Progress:
   - **Project Freeze**: Nasa HUNCH Project, Software for a Raspberry PI Space Freezer temperature control module.
   - **Cyber-Defense**: Tower Defense Game where you can use Python to program tower functionality.

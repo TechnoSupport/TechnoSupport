@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #                              Chase Kluth | chasekluth7@gmail.com
-I am an aspiring Computer Science & Cybersecurity Student with 4 years of experience with programming, in that time I have built automation scripts, discord bots, Minecraft scripts/mods, and professionally developed software for LIX CO and Holding. I am a nut for efficiency: I enjoy programming things to make repetitive tasks much easier or other QOL Projects to aid in everyday responsibilities or life. 
+I am an aspiring Computer Science & Cybersecurity Student with 4 years of experience with programming, in that time I have built automation scripts, discord bots, Minecraft scripts/mods, and professionally developed software for LIX CO and Holding. I'm a total efficiency junkie: I enjoy programming things to make repetitive tasks much easier or other QOL Projects to aid in everyday responsibilities or life. 
 
 # Education
  - Currently Enrolled in *Computer Science and Cybersecurity class at Warren Tech / RRCC*
